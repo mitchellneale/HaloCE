@@ -1,6 +1,6 @@
 # Halo Combat Evolved Main Menu
 
-A simple website to host the main menu for <em>Halo Combat Evolved</em>.
+A nostalgic website to host the main menu for <em>Halo Combat Evolved</em>.
 
 > View this project live here: https://www.haloce.dev/
 
