@@ -61,3 +61,6 @@ You can preview the production build with `npm run preview`.
 * Halo © is a registered [trademark](https://trademarks.justia.com/875/92/halo-87592606.html) of the Microsoft Corporation. 
 * This project was created under Microsoft's [Game Content Usage Rules](http://www.xbox.com/en-us/developers/rules) using assets from Halo Combat Evolved, and is not endorsed by or affiliated with Microsoft.
 * Copyright 2022, Mitchell Neale, All rights reserved.
+
+## 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=HaloCE.visitor-badge&left_text=Visitors)
